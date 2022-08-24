@@ -1,1 +1,1 @@
-# backgroundColor-geneator
+# backgroundColor-generator
